@@ -1,0 +1,307 @@
+01/04/2023 03:29:42 PM: INFO: *************** Verifying Login test ************
+01/04/2023 03:29:42 PM: INFO: *************** Test_001_Login ************
+01/04/2023 03:29:42 PM: INFO: *************** Verifying homepage title ************
+01/04/2023 03:29:44 PM: INFO: *************** homepage title is Passed ************
+01/04/2023 03:29:51 PM: INFO: *************** Login test is Passed ************
+01/04/2023 03:34:22 PM: INFO: *************** Test_001_Login ************
+01/04/2023 03:34:22 PM: INFO: *************** Verifying homepage title ************
+01/04/2023 03:34:22 PM: INFO: *************** Verifying Login test ************
+01/04/2023 03:34:24 PM: INFO: *************** homepage title is Passed ************
+01/04/2023 03:34:28 PM: INFO: *************** Login test is Passed ************
+01/05/2023 10:20:47 AM: INFO: *************** Test_002_DDT_Login ************
+01/05/2023 10:20:47 AM: INFO: *************** Verifying Login test ************
+01/05/2023 10:21:00 AM: INFO: ** Passed *****
+01/05/2023 10:21:08 AM: INFO: ** Passed*****
+01/05/2023 10:21:14 AM: INFO: ** Passed*****
+01/05/2023 10:21:20 AM: INFO: ** Passed*****
+01/05/2023 10:21:20 AM: INFO: ******* Login DDT test passed*****
+01/05/2023 10:21:20 AM: INFO: ******* End of Login DDT Test********
+01/05/2023 10:21:20 AM: INFO: ******* Completed TC_002_Login Test********
+01/05/2023 01:55:33 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 01:55:42 PM: INFO: ************* Login succesful **********
+01/05/2023 01:55:42 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 02:01:15 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 02:01:24 PM: INFO: ************* Login succesful **********
+01/05/2023 02:01:24 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 02:37:39 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 02:37:48 PM: INFO: ************* Login succesful **********
+01/05/2023 02:37:48 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 02:37:52 PM: INFO: ************* Providing customer info **********
+01/05/2023 02:39:22 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 02:39:31 PM: INFO: ************* Login succesful **********
+01/05/2023 02:39:31 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 02:45:30 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 02:45:39 PM: INFO: ************* Login succesful **********
+01/05/2023 02:45:39 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 02:49:42 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 02:49:51 PM: INFO: ************* Login succesful **********
+01/05/2023 02:49:51 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 02:49:54 PM: INFO: ************* Providing customer info **********
+01/05/2023 02:57:39 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 02:57:46 PM: INFO: ************* Login succesful **********
+01/05/2023 02:57:46 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 02:57:49 PM: INFO: ************* Providing customer info **********
+01/05/2023 03:05:58 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 03:06:06 PM: INFO: ************* Login succesful **********
+01/05/2023 03:06:06 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 03:06:09 PM: INFO: ************* Providing customer info **********
+01/05/2023 03:06:20 PM: INFO: ************* Saving customer info **********
+01/05/2023 03:06:20 PM: INFO: ********* Add customer validation started *****************
+01/05/2023 03:08:20 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 03:08:27 PM: INFO: ************* Login succesful **********
+01/05/2023 03:08:27 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 03:08:30 PM: INFO: ************* Providing customer info **********
+01/05/2023 03:08:41 PM: INFO: ************* Saving customer info **********
+01/05/2023 03:08:41 PM: INFO: ********* Add customer validation started *****************
+01/05/2023 03:08:41 PM: ERROR: ********* Add customer Test Failed ************
+01/05/2023 03:14:12 PM: INFO: ************* Test_003_AddCustomer **********
+01/05/2023 03:14:18 PM: INFO: ************* Login succesful **********
+01/05/2023 03:14:18 PM: INFO: ******* Starting Add Customer Test **********
+01/05/2023 03:14:21 PM: INFO: ************* Providing customer info **********
+01/05/2023 03:14:33 PM: INFO: ************* Saving customer info **********
+01/05/2023 03:14:33 PM: INFO: ********* Add customer validation started *****************
+01/05/2023 03:14:33 PM: INFO: ********* Add customer Test Passed *********
+01/05/2023 03:14:33 PM: INFO: ******* Ending Add customer test **********
+01/05/2023 05:01:08 PM: INFO: ************* SearchCustomerByEmail_004 **********
+01/05/2023 05:01:16 PM: INFO: ************* Login succesful **********
+01/05/2023 05:01:16 PM: INFO: ******* Starting Search Customer By Email **********
+01/05/2023 05:01:18 PM: INFO: ************* searching customer by emailID **********
+01/05/2023 05:01:23 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+01/05/2023 05:03:51 PM: INFO: ************* SearchCustomerByName_005 **********
+01/05/2023 05:03:59 PM: INFO: ************* Login succesful **********
+01/05/2023 05:03:59 PM: INFO: ******* Starting Search Customer By Name **********
+01/05/2023 05:04:02 PM: INFO: ************* searching customer by Name **********
+01/05/2023 05:10:40 PM: INFO: ************* SearchCustomerByName_005 **********
+01/05/2023 05:10:48 PM: INFO: ************* Login succesful **********
+01/05/2023 05:10:48 PM: INFO: ******* Starting Search Customer By Name **********
+01/05/2023 05:10:52 PM: INFO: ************* searching customer by Name **********
+01/05/2023 05:12:19 PM: INFO: ************* SearchCustomerByName_005 **********
+01/05/2023 05:12:24 PM: INFO: ************* Login succesful **********
+01/05/2023 05:12:24 PM: INFO: ******* Starting Search Customer By Name **********
+01/05/2023 05:12:28 PM: INFO: ************* searching customer by Name **********
+01/05/2023 05:12:33 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+01/06/2023 08:20:58 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:20:58 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:20:58 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:20:58 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:20:58 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:21:04 AM: INFO: ************* Login succesful **********
+01/06/2023 08:21:04 AM: INFO: ************* Login succesful **********
+01/06/2023 08:21:04 AM: INFO: ************* Login succesful **********
+01/06/2023 08:21:04 AM: INFO: ************* Login succesful **********
+01/06/2023 08:21:04 AM: INFO: ************* Login succesful **********
+01/06/2023 08:21:04 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:21:04 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:21:04 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:21:04 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:21:04 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:21:07 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:21:07 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:21:07 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:21:07 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:21:07 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:21:18 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:21:18 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:21:18 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:21:18 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:21:18 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:21:18 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:21:18 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:21:18 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:21:18 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:21:18 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:21:19 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:21:19 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:21:19 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:21:19 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:21:19 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:21:19 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:21:19 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:21:19 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:21:19 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:21:19 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:21:20 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:21:20 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:21:20 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:21:20 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:21:20 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:21:26 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:21:26 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:21:26 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:21:26 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:21:26 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:39:41 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:39:41 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:39:41 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:39:41 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:39:41 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:39:47 AM: INFO: ************* Login succesful **********
+01/06/2023 08:39:47 AM: INFO: ************* Login succesful **********
+01/06/2023 08:39:47 AM: INFO: ************* Login succesful **********
+01/06/2023 08:39:47 AM: INFO: ************* Login succesful **********
+01/06/2023 08:39:47 AM: INFO: ************* Login succesful **********
+01/06/2023 08:39:47 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:39:47 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:39:47 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:39:47 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:39:47 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:39:50 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:39:50 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:39:50 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:39:50 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:39:50 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:40:01 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:40:01 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:40:01 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:40:01 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:40:01 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:40:01 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:40:01 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:40:01 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:40:01 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:40:01 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:40:01 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:40:01 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:40:01 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:40:01 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:40:01 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:40:02 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:40:02 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:40:02 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:40:02 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:40:02 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:40:03 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:40:03 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:40:03 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:40:03 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:40:03 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:40:08 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:40:08 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:40:08 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:40:08 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:40:08 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:41:34 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:41:34 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:41:34 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:41:34 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:41:34 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:41:39 AM: INFO: ************* Login succesful **********
+01/06/2023 08:41:39 AM: INFO: ************* Login succesful **********
+01/06/2023 08:41:39 AM: INFO: ************* Login succesful **********
+01/06/2023 08:41:39 AM: INFO: ************* Login succesful **********
+01/06/2023 08:41:39 AM: INFO: ************* Login succesful **********
+01/06/2023 08:41:39 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:41:39 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:41:39 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:41:39 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:41:39 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:41:42 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:41:42 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:41:42 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:41:42 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:41:42 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:41:53 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:41:53 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:41:53 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:41:53 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:41:53 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:41:53 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:41:53 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:41:53 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:41:53 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:41:53 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:41:53 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:41:53 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:41:53 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:41:53 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:41:53 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:42:09 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:42:09 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:42:09 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:42:09 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:42:09 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:42:11 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:42:11 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:42:11 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:42:11 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:42:11 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:42:15 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:42:15 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:42:15 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:42:15 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:42:15 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:46:33 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:46:33 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:46:33 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:46:33 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:46:33 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:46:41 AM: INFO: ************* Login succesful **********
+01/06/2023 08:46:41 AM: INFO: ************* Login succesful **********
+01/06/2023 08:46:41 AM: INFO: ************* Login succesful **********
+01/06/2023 08:46:41 AM: INFO: ************* Login succesful **********
+01/06/2023 08:46:41 AM: INFO: ************* Login succesful **********
+01/06/2023 08:46:41 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:46:41 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:46:41 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:46:41 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:46:41 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:46:44 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:46:44 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:46:44 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:46:44 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:46:44 AM: INFO: ************* Providing customer info **********
+01/06/2023 08:46:55 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:46:55 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:46:55 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:46:55 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:46:55 AM: INFO: ************* Saving customer info **********
+01/06/2023 08:46:55 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:46:55 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:46:55 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:46:55 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:46:55 AM: INFO: ********* Add customer validation started *****************
+01/06/2023 08:46:55 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:46:55 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:46:55 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:46:55 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:46:55 AM: INFO: ********* Add customer Test Passed *********
+01/06/2023 08:46:55 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:46:55 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:46:55 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:46:55 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:46:55 AM: INFO: ******* Ending Add customer test **********
+01/06/2023 08:46:57 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:46:57 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:46:57 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:46:57 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:46:57 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:47:04 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:47:04 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:47:04 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:47:04 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:47:04 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:47:32 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:47:32 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:47:32 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:47:32 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:47:32 AM: INFO: ************* Test_003_AddCustomer **********
+01/06/2023 08:47:45 AM: INFO: ************* Login succesful **********
+01/06/2023 08:47:45 AM: INFO: ************* Login succesful **********
+01/06/2023 08:47:45 AM: INFO: ************* Login succesful **********
+01/06/2023 08:47:45 AM: INFO: ************* Login succesful **********
+01/06/2023 08:47:45 AM: INFO: ************* Login succesful **********
+01/06/2023 08:47:45 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:47:45 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:47:45 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:47:45 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:47:45 AM: INFO: ******* Starting Add Customer Test **********
+01/06/2023 08:48:13 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:48:13 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:48:13 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:48:13 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:48:13 AM: INFO: *************** Verifying Login test ************
+01/06/2023 08:48:18 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:48:18 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:48:18 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:48:18 AM: INFO: *************** Login test is Passed ************
+01/06/2023 08:48:18 AM: INFO: *************** Login test is Passed ************
